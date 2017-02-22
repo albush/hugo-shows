@@ -1,13 +1,1 @@
-*.mp3
-*.mp4
-*.flac
-*.aup
-*.au
-*.mov
-*.ai
-*.ogg
-*.au
-
-/admin
-/analytics
 /public

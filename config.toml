@@ -1,8 +1,8 @@
-baseurl = "http://something.neutralimprov.com"
-title = "Something Neutral"
-theme = "vec"
+baseurl = ""
+title = ""
+theme = "hugo-shows"
 languageCode = "en-us"
-paginate = 15
+paginate = 5
 
 [menu]
   # Shown in the side menu.
@@ -16,49 +16,38 @@ paginate = 15
     url = "/about"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-15275173-7"
+googleAnalytics = "UA-123456789-0"
 
 [params]
-  Keywords = "Improv, comedy, improvisation, san antonio,"
-  Description = "Monochromatic Character-Based Improv by Sturdy and Al. You help us create the characters, we help you discover their stories."
+  Keywords = ""
+  Description = ""
 
-  Avater = "http://drops.albush.com/sn-profile.png"
-  SelfIntro = "Something Neutral Improv"
-  Email = "something@neutralimprov.com"
+  Avater = ""
+  SelfIntro = ""
+  Email = ""
 
   #GithubID = "Your Github ID"
-  TwitterID = "someneutral"
-  FacebookID = "someneutral"
-  #LinkedInID = "Your LinkedIn ID"
+  TwitterID = ""
+  FacebookID = ""
+  #YouTubeID = ""
   #GoogleplusID = "Your Googleplus ID"
 
 
   [params.social]
         #github      = "albush"
-        facebook        = "someneutral"
-        facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
-        twitter     = "someneutral"
-        twitter_domain  = "something.neutralimprov.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-        #googleplus      = "+AlanBush"
-        instagram       = "someneutral"
-        # youtube     = "nozzleio"
-        #linkedin        = "adbush"
-      [params.authors]
-        [params.authors.alan]
-        name          = "Alan Bush"
-        thumbnail     = "http://2.gravatar.com/avatar/4b434a5f9b17613e7eae559726e31b99"
+        facebook        = ""
+        facebook_admin  = ""  # This needs to be a page admin to get domain insights
+        twitter     = ""
+        twitter_domain  = "" # This domain shows in twitter cards as "View on `twitter_domain`"
+        #googleplus      = ""
+        instagram       = ""
+        # youtube     = ""
+        [params.authors]
+        [params.authors.xxx]
+        name          = ""
+        thumbnail     = ""
         images        = [
-                        "http://drops.albush.com/bush_alan_04_small.jpg",
+                        "",
                       ]
-        bio           = "Alan Bush is a Community Manager at Rackspace by day, a husband, daddy and comedian by night. Alan likes beer, coffee, puns and the Kansas City Royals. He dislikes writing about himself in the third person."
-        email         = "al@albush.com"
-          [params.authors.Alan.social]
-          name = "Alan Bush"
-          github      = "albush"
-          facebook        = "alan.bush"
-          facebook_admin  = "1554398007"  # This needs to be a page admin to get domain insights
-          twitter     = "alanbush"
-          twitter_domain  = "albush.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-          googleplus      = "+AlanBush"
-          instagram       = "youcancallmealbush"
-          linkedin        = "adbush"
+        bio           = ""
+        email         = ""
